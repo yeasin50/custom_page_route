@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: custom_page_route
+dependency_overrides:
+  custom_page_route:
+    path: ..\\..
